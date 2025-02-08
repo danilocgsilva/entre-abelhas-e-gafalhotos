@@ -1,0 +1,9 @@
+:root {
+    --font-garamont: "EB Garamond", serif;
+}
+
+.eb-garamond {
+    font-family: var(--font-garamont);
+    font-optical-sizing: auto;
+    font-style: normal;
+}
